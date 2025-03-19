@@ -1,6 +1,5 @@
-#include "pch.h"
-#include "../Project6/ALU.cpp";
-#include "../Project6/Result.cpp";
+#include "alu.cpp";
+#include "result.cpp";
 
 TEST(ALU, ADDTest) {
 	ALU alu;
