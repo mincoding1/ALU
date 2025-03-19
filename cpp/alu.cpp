@@ -1,12 +1,12 @@
 #pragma once
 
 #include <string>
-#include "Result.cpp"
+#include "result.cpp"
 
 class ALU
 {
 	int operand1 = -1;
-    int operand2 = -1;
+	int operand2 = -1;
 	std::string OPCODE = "";
 
 public:
